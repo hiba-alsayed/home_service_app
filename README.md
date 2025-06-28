@@ -13,10 +13,10 @@ A mobile application that allows service providers to list their services and de
 
 The project follows a **Modular Layered Architecture**:
 lib/
-#├── models/ 
-#├── providers/ 
-#├── services/
-#├── pages/
+├── models/ 
+├── providers/ 
+├── services/
+├── pages/
 
 ## 🛠️ Tech Stack
 
