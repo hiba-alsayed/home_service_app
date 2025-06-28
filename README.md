@@ -1,17 +1,14 @@
-# 🧩 Home Service Flutter 
+# Home Service App 🛠️🏠
+A mobile application that allows service providers to list their services and details, and allows users to select the appropriate service provider on the day and time they want and make a reservation.
 
-A simple Flutter project to kickstart your mobile app development journey.
+## 🌟 Features
 
-## 🚀 Getting Started
+- 🗓️ Users can view available service providers and **book appointments** based on preferred date and time  
+- 🧾 Providers can **create, update, and manage** their service listings  
+- 🧠 Efficient **state management using Provider** for smooth and reactive UI updates  
+- 🎨 Clean and intuitive **UI/UX** for both customers and providers  
+- 💳 Includes a **mock payment system** for testing the booking flow
 
-This project is a minimal Flutter setup to help you build and experiment quickly.
+- ## 🧠 Architecture
 
-### ✅ Requirements
-- Flutter SDK (latest stable)
-- Dart SDK
-- Android Studio or VS Code
-
-### 🛠️ How to Run
-```bash
-flutter pub get
-flutter run
+The project follows a **Modular Layered Architecture**.
