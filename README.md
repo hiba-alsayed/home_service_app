@@ -11,4 +11,18 @@ A mobile application that allows service providers to list their services and de
 
 - ## 🧠 Architecture
 
-The project follows a **Modular Layered Architecture**.
+The project follows a **Modular Layered Architecture**:
+lib/
+├── models/ # Data models and entities
+├── providers/ # State management using Provider
+├── services/ # Business logic and API/service calls
+├── pages/ # UI pages and components
+
+## 🛠️ Tech Stack
+
+- **Flutter** & **Dart**
+- **Provider** for state management
+- **REST API** integration for backend communication
+- **Mock payment system** (for simulated transactions)
+- **Custom UI/UX** designed with usability in mind
+- **Modular layered project structure**
